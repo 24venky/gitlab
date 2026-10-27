@@ -1,9 +1,0 @@
-userid=int(input("enter ur userid:"))
-password=input("enter ur password:"))
-passlist{ 101:"whitepass", 102:"nevermorepass", 103:"krishnapass"}
-if userid and password in passlist:
-  print( "ur a user please welcome:")
-else:
-  print("user not found")
-
-
